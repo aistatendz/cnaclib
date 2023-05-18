@@ -6,8 +6,9 @@ with open("README.md", "r",encoding="utf-8") as fh:
     
 setuptools.setup(
     name = 'cnaclib',
-    version = '0.1.2',
+    version = '0.1.3',
     author= 'BENHAMADA Nadir',
+    author_email="aistatendz@gmail.com",
     description='Simulateur RAC',
     packages=setuptools.find_packages(),
     install_requires=["certifi>=2023.5.7",

@@ -58,4 +58,4 @@ https://github.com/aistatendz/cnaclib/blob/master/Exemple_Tools_03.ipynb
 
 ## Author
 
-BENHAMADA Nadir ([nadir.benhamada@outlook.com](nadir.benhamada@outlook.com))
+BENHAMADA Nadir ([aistatendz@gmail.com](aistatendz@gmail.com))
