@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name = 'cnaclib',
-    version = '0.1',
+    version = '0.1.1',
     author= 'BENHAMADA Nadir',
     description='Simulateur RAC',
     packages=setuptools.find_packages(),
