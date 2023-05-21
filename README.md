@@ -4,7 +4,7 @@
 
 **cnaclib** C’est un package `Python` dédié aux usagers et aux employés de la CNAC.
 
-## Pourquoi utiliser cnaclib ?
+## Pourquoi utiliser cnaclib?
 
 * Il dispose de plusieurs modules et fonctions `Python` pour : 
     * Faire une simulation de calculs pour le bénéfice du régime d’assurance chômage (RAC)
