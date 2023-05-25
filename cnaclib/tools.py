@@ -544,7 +544,9 @@ def GenererDossiers(langue):
 
 def SNMG(Date):
     Date = datetime.strptime(Date, "%d/%m/%Y")
-    if Date >= datetime.strptime('01/01/1990', "%d/%m/%Y") and  Date <= datetime.strptime('31/12/1990', "%d/%m/%Y") :
+    if Date < datetime.strptime('01/01/1990', "%d/%m/%Y"):
+        SNMG = 0
+    elif Date >= datetime.strptime('01/01/1990', "%d/%m/%Y") and  Date <= datetime.strptime('31/12/1990', "%d/%m/%Y") :
         SNMG = 1000
     elif  Date >= datetime.strptime('01/01/1991', "%d/%m/%Y") and Date <= datetime.strptime('30/06/1991', "%d/%m/%Y"):
         SNMG = 1800

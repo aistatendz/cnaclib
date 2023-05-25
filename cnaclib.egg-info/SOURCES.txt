@@ -4,6 +4,7 @@ setup.py
 cnaclib/__init__.py
 cnaclib/lSix.py
 cnaclib/rac.py
+cnaclib/test.py
 cnaclib/tools.py
 cnaclib.egg-info/PKG-INFO
 cnaclib.egg-info/SOURCES.txt

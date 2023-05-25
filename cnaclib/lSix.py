@@ -170,7 +170,7 @@ class Formation():
 
 
 
-
+'''
 if __name__=='__main__':
     nadir = Recrutement(Wilaya='ADRAR', primo_demandeur=False, Contrat=0,Salaire=50000)
     print(nadir.Taux_Abattement())
@@ -179,3 +179,4 @@ if __name__=='__main__':
     khaled = Formation(duree_formation=1, Salaire=25000)
     print(khaled.Nbre_Mois())
     print(khaled.Montant_Formation())
+'''
