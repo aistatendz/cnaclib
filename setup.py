@@ -11,7 +11,7 @@ long_description = (chemin / "README.md").read_text()
 
 setuptools.setup(
     name = 'cnaclib',
-    version = '0.1.12',
+    version = '0.1.14',
     author= 'BENHAMADA Nadir',
     author_email='aistatendz@gmail.com',
     description='Simulateur RAC',
@@ -20,7 +20,6 @@ setuptools.setup(
     long_description_content_type='text/markdown',
     install_requires=["certifi >=2023.5.7",
                     "charset-normalizer >=3.1.0",
-                    "cnaclib >=0.1.10",
                     "idna >=3.4",
                     "numpy >=1.24.3",
                     "pandas >=2.0.1",
