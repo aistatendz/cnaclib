@@ -39,7 +39,7 @@ urllib3 >=2.0.2
 
 ### User installation
 
-You can install scientisttools using `pip` :
+You can install cnaclib using `pip` :
 
 ```
 pip install cnaclib

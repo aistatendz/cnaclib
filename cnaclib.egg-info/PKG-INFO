@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: cnaclib
-Version: 0.1.14
+Version: 0.1.15
 Summary: Simulateur RAC
 Home-page: UNKNOWN
 Author: BENHAMADA Nadir
@@ -47,7 +47,7 @@ Description: # cnaclib : Librairie Python developpee pour les usagers et les emp
         
         ### User installation
         
-        You can install scientisttools using `pip` :
+        You can install cnaclib using `pip` :
         
         ```
         pip install cnaclib
